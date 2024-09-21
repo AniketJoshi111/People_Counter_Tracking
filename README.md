@@ -1,6 +1,6 @@
 # Survivor Detection using CV
 
-Built a ML model using YOLOv8 to estimate the number or survivors in high-risk buildings 
+Built a ML model using YOLOv8 to estimate the number or survivors
 in high-risk buildings by counting people entering and leaving through CCTV camera's.
 
 ### Tech Stack:
